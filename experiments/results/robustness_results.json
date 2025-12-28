@@ -1,0 +1,63 @@
+{
+  "jpeg_q75": {
+    "mean_score": 154.6855916225224,
+    "std_score": 2.8266857953845537,
+    "min_score": 148.2700615504934,
+    "max_score": 161.99685694802943,
+    "detection_rate": 1.0
+  },
+  "jpeg_q50": {
+    "mean_score": 155.24015456686172,
+    "std_score": 2.8070007471237384,
+    "min_score": 148.7547154880154,
+    "max_score": 162.39737965652205,
+    "detection_rate": 1.0
+  },
+  "blur_1.0": {
+    "mean_score": 154.15558103053812,
+    "std_score": 2.8335617808228046,
+    "min_score": 147.68213856616097,
+    "max_score": 161.61031389325467,
+    "detection_rate": 1.0
+  },
+  "blur_1.5": {
+    "mean_score": 154.33942949351965,
+    "std_score": 2.8356197118563164,
+    "min_score": 147.8600111987372,
+    "max_score": 161.79652665911155,
+    "detection_rate": 1.0
+  },
+  "crop_80": {
+    "mean_score": 152.4174259496736,
+    "std_score": 2.785329876637676,
+    "min_score": 144.90916406037533,
+    "max_score": 158.4582684395302,
+    "detection_rate": 1.0
+  },
+  "crop_70": {
+    "mean_score": 151.0985747040821,
+    "std_score": 2.920340724004027,
+    "min_score": 142.07635657464832,
+    "max_score": 159.6585696337831,
+    "detection_rate": 1.0
+  },
+  "noise_0.01": {
+    "mean_score": 154.5223168033545,
+    "std_score": 2.834309140073253,
+    "min_score": 148.05857866871844,
+    "max_score": 161.92525411857056,
+    "detection_rate": 1.0
+  },
+  "noise_0.02": {
+    "mean_score": 154.6166170254752,
+    "std_score": 2.829647006846899,
+    "min_score": 148.18259793073295,
+    "max_score": 161.95943773626283,
+    "detection_rate": 1.0
+  },
+  "false_positive_analysis": {
+    "mean_score": 152.6804257445881,
+    "std_score": 2.3925548590351267,
+    "false_positive_rate_0.5": 1.0
+  }
+}
